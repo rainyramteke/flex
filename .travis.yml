@@ -2,7 +2,6 @@ language: c
 
 compiler:
   - gcc
-  - clang
 
 addons:
   apt:
@@ -12,7 +11,6 @@ addons:
     - autoconf
     - automake
     - bison
-    - clang-5.0
     - gcc-6
     - gettext
     - help2man

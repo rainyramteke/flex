@@ -10,9 +10,9 @@ addons:
     packages:
     - autoconf
     - automake
+    - autopoint
     - bison
     - gcc-6
-    - gettext
     - help2man
     - texinfo
 
